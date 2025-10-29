@@ -8,7 +8,8 @@
 ### I'm **Sarath Chennu**, an **AI Platform Engineer @ Boston Scientific**  
 Building scalable, intelligent systems that power Generative AI on the cloud.  
   
-<img src="https://github.com/codesss009/codesss009/assets/yourbannerid/cloud_wave.gif" alt="AI Cloud Banner" width="100%" style="border-radius:12px"/>
+<img src="<img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1400&q=80" width="100%">
+" alt="AI Cloud Banner" width="100%" style="border-radius:12px"/>
 
 </div>
 
