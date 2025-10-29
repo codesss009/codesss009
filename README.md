@@ -8,7 +8,7 @@
 # 👋 Welcome to My Cloud ☁️  
 
 <a href="https://github.com/codesss009">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00C4FF&width=435&lines=This+is+Sarath+Chennu;AI+Cloud+Platform+Engineer+@+Boston+Scientific;Building+Multi-tenant+LLM+Platforms+on+AWS;Optimizing+AI+Infrastructure;Turning+Clouds+into+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00C4FF&width=435&lines=This+is+Sarath+Chennu;AI+Platform+Engineer+@+Boston+Scientific;Building+Multi-tenant+LLM+Platforms+on+AWS;Optimizing+AI+Infrastructure;Turning+Clouds+into+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </div>
 
 ## 🧠 About Me
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 
 👨‍💻 **AI Cloud Platform Engineer** experienced in deploying and maintaining **LLM and RAG ecosystems** across **multi-tenant AWS environments**.  
