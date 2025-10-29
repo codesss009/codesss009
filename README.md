@@ -1,63 +1,53 @@
-<!--  ================================
-      S A R A T H   C H E N N U 
-      AI Cloud Platform Engineer | Boston Scientific
-     ================================================ -->
+<!-- ===========================================
+   🌩️  SARATH CHENNU – AI CLOUD PLATFORM ENGINEER
+   =========================================== -->
 
-<!-- Header Section -->
-<p align="center">
-  <img src="https://github.com/codesss009/codesss009/assets/yourbannerid/ai_cloud_banner.gif" alt="AI Cloud Engineer Banner" width="100%"/>
-</p>
+<div align="center">
+  
+# 👋 Welcome to My Cloud ☁️  
+### I'm **Sarath Chennu**, an **AI Platform Engineer @ Boston Scientific**  
+Building scalable, intelligent systems that power Generative AI on the cloud.  
+  
+<img src="https://github.com/codesss009/codesss009/assets/yourbannerid/cloud_wave.gif" alt="AI Cloud Banner" width="100%" style="border-radius:12px"/>
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00A3FF;">Sarath Chennu</span></h1>
-<h3 align="center">AI Cloud Platform Engineer @ Boston Scientific | Building Scalable LLM Infrastructure ☁️🤖</h3>
-
----
-
-<!-- Cool Stats + Eye Candy Section -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%7C%20AWS%20Cloud%20%7C%20MLOps-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Loves-Automation%20%7C%20System%20Design-orange?style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codesss009&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%"/>
-  <img src="https://streak-stats.demolab.com?user=codesss009&theme=radical&hide_border=true" width="45%"/>
-</p>
+</div>
 
 ---
 
 ## 🧠 About Me
-
-Hi, I’m **Sarath** — a Cloud + AI Engineer designing multi-tenant **GenAI platforms** that scale across **AWS**, **SageMaker**, and **Bedrock**.  
-I make LLM deployments faster, cheaper, and production-ready.
-
-💼 **Currently:** AI Platform Engineer @ **Boston Scientific**  
-🌐 **Working on:** Secure multi-tenant AI infrastructure, RAG orchestration, CI/CD automation  
-⚙️ **Tech I'm mastering:** Snowflake ❄️ | Ray | LangChain | Bedrock | Terraform  
-
-> “I believe great systems are invisible — they just work, scale, and feel effortless.”
+🚀 **AI Cloud Platform Engineer** with experience in building **multi-tenant LLM and RAG systems** on **AWS**.  
+🔧 Passionate about **platform automation**, **cost optimization**, and **end-to-end MLOps pipelines**.  
+💡 Currently exploring **AWS**, **Bedrock**, **MCP**, and **LLM observability**.  
+🧩 I believe the future belongs to engineers who make **AI infrastructure reliable, elegant, and invisible**.
 
 ---
 
-## ⚙️ Tech Universe 🌌
-
+## ⚙️ My Tech Universe
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,java,cpp,docker,kubernetes,terraform,react,git,linux" /><br>
-  <img src="https://skillicons.dev/icons?i=spring,postgres,sqlite,cloudflare,nginx,githubactions,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=aws,python,java,cpp,linux,docker,kubernetes,terraform,react,git,githubactions,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,cloudflare,fastapi,flask,nginx,redis" />
 </p>
 
 ---
 
-## 💬 What I Do
-- 🧩 Architect AI Platform Infrastructure (multi-tenant, secure, automated)
-- ⚡ Optimize Cloud Costs via tagging, orchestration & autoscaling
-- 🧠 Build and maintain LLM pipelines for GenAI apps
-- 🪄 Create reliable CI/CD and observability systems across environments
-- ✍️ Share insights on AI infra & cloud automation on [Medium](https://medium.com/@sarath.chennu)
+## 💡 What I Do
+- 🌐 Architect **AI platform infrastructure** for distributed, secure LLM workloads  
+- ⚙️ Design **Scalable Architectures**, tagging systems, and Multi-tenant environments across AWS  
+- 🤖 Automate everything — from SageMaker training to Bedrock inference  
+- 🪄 Mentor teams on **MLOps**, **cost-aware design**, and **platform scalability**
 
 ---
 
-## 📡 Connect & Network
+## 📊 My GitHub in Action
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codesss009&show_icons=true&theme=tokyonight&hide_border=true" width="45%">
+  <img src="https://streak-stats.demolab.com?user=codesss009&theme=tokyonight&hide_border=true" width="45%">
+</p>
+
+---
+
+## 🌈 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarath-chennu">
@@ -76,19 +66,16 @@ I make LLM deployments faster, cheaper, and production-ready.
 
 ---
 
-## 📊 Activity Snapshot
+## ✨ Fun Fact
+> I don’t just deploy AI models —  
+> I deploy the **platforms** that make them thrive at scale.  
+> From one cloud to another, welcome to my corner of the sky ☁️
+
+---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codesss009&theme=radical" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=codesss009&label=Visitors&color=0e75b6&style=flat">
 </p>
-
----
-
-## 🎯 Fun Fact
-> “AI doesn’t replace people — it replaces limits.”  
-> I’m obsessed with making systems that empower humans to build smarter, faster, and simpler.
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3FF,100:ff0080&height=120&section=footer&text=Thanks%20for%20Stopping%20By!%20👋&fontColor=fff&fontSize=20&fontAlignY=40"/>
