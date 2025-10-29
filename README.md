@@ -6,9 +6,8 @@
 <div align="center">
 
 # 👋 Welcome to My Cloud ☁️  
-
 <a href="https://github.com/codesss009">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00C4FF&width=435&lines=This+is+Sarath+Chennu;AI+Platform+Engineer+@+Boston+Scientific;Building+Multi-tenant+LLM+Platforms+on+AWS;Optimizing+AI+Infrastructure;Turning+Clouds+into+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00C4FF&width=435&lines=This+is+Sarath+Chennu;AI+Platform+Eng+@+Boston+Scientific;Building+Multi-tenant+LLM+Platforms+on+AWS;Optimizing+AI+Infrastructure;Turning+Clouds+into+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,17 +19,17 @@
 </div>
 
 ## 🧠 About Me
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 
 👨‍💻 **AI Cloud Platform Engineer** experienced in deploying and maintaining **LLM and RAG ecosystems** across **multi-tenant AWS environments**.  
 ⚙️ I specialize in **platform automation**, **infrastructure reliability**, and **MLOps pipelines** that bridge software and AI.  
 🧩 My mission: Make **AI infrastructure as seamless and self-optimizing as the intelligence it supports**.  
-🎯 Currently learning: **Snowflake**, **LangChain**, **Serverless LLM deployment**, **Observability in AI workloads**
+🎯 Currently learning: **AWS**, **MCP**, **Serverless LLM deployment**, **Observability in AI workloads**
 
 ---
 
 ## ⚙️ Tech Universe
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:ff0080&height=100&section=header" width="100%">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,python,java,go,linux,docker,kubernetes,terraform,githubactions,vscode" /><br>
   <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,nginx,flask,fastapi,redis,cloudflare" />
@@ -50,8 +49,6 @@
 ---
 
 ## 🤝 Connect With Me
-<img src="https://capsule-render.vercel.app/api?type=rect&text=⚙️%20Tech%20Universe%20⚙️&fontAlign=50&fontSize=20&color=gradient&height=60"/>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarath-chennu">
