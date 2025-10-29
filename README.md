@@ -20,7 +20,7 @@
 </div>
 
 ## 🧠 About Me
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 
 👨‍💻 **AI Cloud Platform Engineer** experienced in deploying and maintaining **LLM and RAG ecosystems** across **multi-tenant AWS environments**.  
@@ -50,7 +50,7 @@
 ---
 
 ## 🤝 Connect With Me
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/binary.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&text=⚙️%20Tech%20Universe%20⚙️&fontAlign=50&fontSize=20&color=gradient&height=60"/>
 
 
 <p align="center">
