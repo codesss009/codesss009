@@ -8,15 +8,11 @@
 # 👋 Welcome to My Cloud ☁️  
 
 <a href="https://github.com/codesss009">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00C4FF&width=435&lines=AI+Cloud+Platform+Engineer+@+Boston+Scientific;Building+Multi-tenant+LLM+Platforms+on+AWS;Optimizing+AI+Infrastructure+for+Scale;Turning+Clouds+into+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00C4FF&width=435&lines=This+is+Sarath+Chennu;AI+Cloud+Platform+Engineer+@+Boston+Scientific;Building+Multi-tenant+LLM+Platforms+on+AWS;Optimizing+AI+Infrastructure;Turning+Clouds+into+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg" height="25" />
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/aws.svg" height="25" />
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/docker.svg" height="25" />
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/kubernetes.svg" height="25" />
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/github.svg" height="25" />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,github,linux,python,java,go,docker,terraform" />
 </p>
 
 ---
@@ -24,6 +20,8 @@
 </div>
 
 ## 🧠 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%">
+
 
 👨‍💻 **AI Cloud Platform Engineer** experienced in deploying and maintaining **LLM and RAG ecosystems** across **multi-tenant AWS environments**.  
 ⚙️ I specialize in **platform automation**, **infrastructure reliability**, and **MLOps pipelines** that bridge software and AI.  
@@ -34,7 +32,7 @@
 
 ## ⚙️ Tech Universe
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,java,cpp,linux,docker,kubernetes,terraform,githubactions,react,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,python,java,go,linux,docker,kubernetes,terraform,githubactions,vscode" /><br>
   <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,nginx,flask,fastapi,redis,cloudflare" />
 </p>
 
@@ -52,6 +50,8 @@
 ---
 
 ## 🤝 Connect With Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/binary.png" width="100%">
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarath-chennu">
@@ -72,7 +72,7 @@
 
 ## ✨ Fun Fact
 
-> I don’t just deploy AI models — I **build the clouds** they live on.  
+> I don’t deploy AI models — I **build the clouds** they live on.  
 > Every system I design is a bridge between **intelligence and reliability**.
 
 ---
