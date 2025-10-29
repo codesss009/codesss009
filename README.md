@@ -1,45 +1,48 @@
-<!-- ===========================================
-   🌩️  SARATH CHENNU – AI CLOUD PLATFORM ENGINEER
-   =========================================== -->
+<!-- ==========================================================
+     🌩️  S A R A T H   C H E N N U
+     AI Cloud Platform Engineer @ Boston Scientific
+     ========================================================== -->
 
 <div align="center">
-  
+
 # 👋 Welcome to My Cloud ☁️  
-### I'm **Sarath Chennu**, an **AI Platform Engineer @ Boston Scientific**  
-Building scalable, intelligent systems that power Generative AI on the cloud.  
-  
-<img src="<img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1400&q=80" width="100%">
-" alt="AI Cloud Banner" width="100%" style="border-radius:12px"/>
 
-</div>
+<a href="https://github.com/codesss009">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00C4FF&width=435&lines=AI+Cloud+Platform+Engineer+@+Boston+Scientific;Building+Multi-tenant+LLM+Platforms+on+AWS;Optimizing+AI+Infrastructure+for+Scale;Turning+Clouds+into+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
----
-
-## 🧠 About Me
-🚀 **AI Cloud Platform Engineer** with experience in building **multi-tenant LLM and RAG systems** on **AWS**.  
-🔧 Passionate about **platform automation**, **cost optimization**, and **end-to-end MLOps pipelines**.  
-💡 Currently exploring **AWS**, **Bedrock**, **MCP**, and **LLM observability**.  
-🧩 I believe the future belongs to engineers who make **AI infrastructure reliable, elegant, and invisible**.
-
----
-
-## ⚙️ My Tech Universe
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,java,cpp,linux,docker,kubernetes,terraform,react,git,githubactions,vscode" /><br>
-  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,cloudflare,fastapi,flask,nginx,redis" />
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg" height="25" />
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/aws.svg" height="25" />
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/docker.svg" height="25" />
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/kubernetes.svg" height="25" />
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/github.svg" height="25" />
 </p>
 
 ---
 
-## 💡 What I Do
-- 🌐 Architect **AI platform infrastructure** for distributed, secure LLM workloads  
-- ⚙️ Design **Scalable Architectures**, tagging systems, and Multi-tenant environments across AWS  
-- 🤖 Automate everything — from SageMaker training to Bedrock inference  
-- 🪄 Mentor teams on **MLOps**, **cost-aware design**, and **platform scalability**
+</div>
+
+## 🧠 About Me
+
+👨‍💻 **AI Cloud Platform Engineer** experienced in deploying and maintaining **LLM and RAG ecosystems** across **multi-tenant AWS environments**.  
+⚙️ I specialize in **platform automation**, **infrastructure reliability**, and **MLOps pipelines** that bridge software and AI.  
+🧩 My mission: Make **AI infrastructure as seamless and self-optimizing as the intelligence it supports**.  
+🎯 Currently learning: **Snowflake**, **LangChain**, **Serverless LLM deployment**, **Observability in AI workloads**
 
 ---
 
-## 📊 My GitHub in Action
+## ⚙️ Tech Universe
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,python,java,cpp,linux,docker,kubernetes,terraform,githubactions,react,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,nginx,flask,fastapi,redis,cloudflare" />
+</p>
+
+---
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
+
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codesss009&show_icons=true&theme=tokyonight&hide_border=true" width="45%">
@@ -48,7 +51,7 @@ Building scalable, intelligent systems that power Generative AI on the cloud.
 
 ---
 
-## 🌈 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarath-chennu">
@@ -68,9 +71,9 @@ Building scalable, intelligent systems that power Generative AI on the cloud.
 ---
 
 ## ✨ Fun Fact
-> I don’t just deploy AI models —  
-> I deploy the **platforms** that make them thrive at scale.  
-> From one cloud to another, welcome to my corner of the sky ☁️
+
+> I don’t just deploy AI models — I **build the clouds** they live on.  
+> Every system I design is a bridge between **intelligence and reliability**.
 
 ---
 
@@ -79,5 +82,5 @@ Building scalable, intelligent systems that power Generative AI on the cloud.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3FF,100:ff0080&height=120&section=footer&text=Thanks%20for%20Stopping%20By!%20👋&fontColor=fff&fontSize=20&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:ff0080&height=120&section=footer&text=Thanks%20for%20Stopping%20By!%20👋&fontColor=fff&fontSize=20&fontAlignY=40"/>
 </p>
